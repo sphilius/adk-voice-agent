@@ -8,7 +8,7 @@ AI agents, including Jules, operate best with explicit and unambiguous instructi
 
 *   **Why it's crucial:**
     *   **AI Interpretation:** Jules doesn't "understand" in a human sense; it processes language based on patterns. Vague instructions lead to ambiguous or incorrect outputs.
-    *   **AuDHD Clarity:** Clear instructions reduce anxiety and the mental effort needed to decipher expectations.
+    *   **AuDHD Clarity:** Clear instructions reduce anxiety and the mental effort needed to decipher expectations. This clarity helps in taking direct, prioritized action, which can be an effective strategy against the "Planning Paradox" (where planning becomes a form of procrastination).
     *   **Efficiency:** Specific prompts get you closer to the desired output faster, minimizing iterations.
 
 *   **Examples:**
@@ -26,13 +26,13 @@ AI agents, including Jules, operate best with explicit and unambiguous instructi
 
 ## 2. Breaking Down Large Tasks
 
-Decomposing complex tasks into smaller, manageable sub-tasks is a cornerstone of effective project management and a key strategy for working with AI.
+Decomposing complex tasks into smaller, manageable sub-tasks is a cornerstone of effective project management and a key strategy for working with AI. This structured approach is vital for managing "executive dysfunction."
 
 *   **Why it's crucial:**
     *   **AI Focus:** Jules can handle smaller, well-defined tasks more accurately.
-    *   **AuDHD Management:** Reduces overwhelm, makes tasks feel less daunting, and provides more frequent senses of accomplishment.
+    *   **AuDHD Management:** Reduces overwhelm, makes tasks feel less daunting, and provides more frequent senses of accomplishment. Clearly defined sub-tasks minimize "context switching" by providing distinct work units.
     *   **Easier Review:** Smaller changes are easier to review and debug.
-    *   **Step-by-Step Progress:** Aligns well with iterative development.
+    *   **Step-by-Step Progress:** Aligns well with iterative development and encourages "consistent micro-actions," which helps in making steady progress and avoiding "Project Graveyard Syndrome."
 
 *   **Example:** Instead of "Jules, integrate a new weather API into the voice agent."
 
@@ -58,12 +58,12 @@ Jules doesn't have memory of past interactions beyond the current session's cont
 
 ## 4. Iterative Development & Feedback
 
-Treat working with Jules as a collaborative, iterative process. Start with small changes, review them, and provide specific feedback.
+Treat working with Jules as a collaborative, iterative process. Start with small changes, review them, and provide specific feedback. This iterative loop supports focused engagement and adaptability.
 
 *   **Why it's crucial:**
     *   **Course Correction:** Catch misunderstandings or errors early.
     *   **Refinement:** AI-generated code is often a good starting point but may need refinement.
-    *   **AuDHD Pacing:** Iteration allows for natural breaks and prevents marathon coding sessions that can lead to burnout.
+    *   **AuDHD Pacing:** Iteration allows for natural breaks and prevents marathon coding sessions that can lead to burnout. It reinforces the idea of progress through "consistent micro-actions."
 
 *   **Process:**
     1.  **Assign a small task.**
@@ -120,7 +120,7 @@ It's equally important to understand what Jules *cannot* do or where it struggle
 
 These tips are designed to make the collaboration with Jules more comfortable and effective for a user with AuDHD:
 
-*   **Request Step-by-Step Plans:** Before Jules generates a large chunk of code, ask it to outline its approach.
+*   **Request Step-by-Step Plans:** Before Jules generates a large chunk of code, ask it to outline its approach. This structured approach helps in managing cognitive load.
     *   *"Jules, before you write the code to add color-coding to calendar events, please provide a step-by-step plan of which files you'll modify and what changes you'll make in each."*
 *   **Ask for Explanations of Jargon or Complex Code:** If Jules uses a term or generates code that isn't immediately clear, ask for clarification.
     *   *"Jules, you mentioned using a 'decorator' here. Can you explain what that means in this context and why it's useful?"*
@@ -129,7 +129,7 @@ These tips are designed to make the collaboration with Jules more comfortable an
     *   *"Jules, you suggested refactoring using a 'strategy pattern'. Can you show me a small, concrete example of how that would look in Python for, say, different ways of calculating a price?"*
 *   **Use Jules for Organization:**
     *   *"Jules, I have these ideas for features: X, Y, Z. Can you help me structure them into a list with brief descriptions for a markdown file?"*
-*   **Set Clear Boundaries for Tasks:** Define the scope of what Jules should do in a given turn to keep interactions focused.
+*   **Set Clear Boundaries for Tasks:** Define the scope of what Jules should do in a given turn to keep interactions focused, reducing potential for "context switching."
 
 ## 9. Example Workflow: Adding Color-Coding to Calendar Events
 
